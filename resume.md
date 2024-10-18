@@ -1,4 +1,3 @@
-
 # ARCHANA MAHAT
 ---
 Address:Tikathali, Lalitpur
@@ -44,4 +43,3 @@ https://github.com/mahatarc/HALOPROJECT.git
 
 WorldQuant University
 2024
-
