@@ -8,7 +8,7 @@ It takes input from user and create a markdown file which is converted to downlo
 - CSS: For styling the application
 - PDF Generation: PDFKit for converting markdown to PDF
 
-###To run application:
+### To run application:
 Type : python -m streamlit run D:\Resume\resume.py in terminal
 
 ## Output Screenshot
