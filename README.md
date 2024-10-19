@@ -9,7 +9,8 @@ It takes input from user and create a markdown file which is converted to downlo
 - PDF Generation: PDFKit for converting markdown to PDF
 
 ### To run application:
-Type : python -m streamlit run D:\Resume\resume.py in terminal
+Type : python -m streamlit run your_script_name.py or streamlit run your_script_name.py
+ in terminal
 
 ## Output Screenshot
 
